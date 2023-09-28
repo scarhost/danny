@@ -1,3 +1,0 @@
-buildCommand: yarn
-buildEnvironment:
-  nodeVersion: 14.20.1
